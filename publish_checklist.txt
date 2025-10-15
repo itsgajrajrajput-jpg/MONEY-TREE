@@ -1,0 +1,9 @@
+✅ HOW TO USE THIS SETUP
+
+1️⃣ Create a GitHub account (https://github.com)
+2️⃣ Create a new repository (public or private)
+3️⃣ Upload your Flutter app code
+4️⃣ Add these files from this ZIP (same folder structure)
+5️⃣ Commit and push your code
+6️⃣ Go to "Actions" tab → Wait for build to complete
+7️⃣ Download your APK from "Artifacts" section
